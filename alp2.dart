@@ -9,9 +9,11 @@ void tuy(){
   for (final m in ogretmenler){
     m.merhaba();
 
+
+
   }
 }
-class student<A> {
+class  student<A> {
   A gozeten;
 
   student(this.gozeten);
